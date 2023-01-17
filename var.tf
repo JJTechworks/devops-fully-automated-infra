@@ -1,4 +1,4 @@
-variable "key_pair_name" {
+variable "jjvibe.pem" {
     type = string
     description = "keypair to utilize"
     default = "us-east-1"
